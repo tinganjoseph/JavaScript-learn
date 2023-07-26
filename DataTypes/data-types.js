@@ -8,3 +8,5 @@
  * *6. symbol-available only from ES6
  * ?and one comple data type is called object
  */
+
+//Todo: Javascript is a dynamic language therefore a variable doesn't associate with any type. However, its value does.
