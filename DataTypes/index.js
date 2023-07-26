@@ -1,8 +1,7 @@
-let counter =12;
-console.log(typeof(counter));
+let obj= null;
 
-counter = false;
-console.log(typeof(counter));
-
-counter="Hi";
-console.log(typeof(counter));
+if(obj!=null){
+    console.log("this is not null object")
+} else{
+    console.log(typeof(obj));
+}
