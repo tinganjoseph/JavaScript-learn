@@ -1,7 +1,2 @@
-let obj= null;
-
-if(obj!=null){
-    console.log("this is not null object")
-} else{
-    console.log(typeof(obj));
-}
+let morning =" it's a valid string";
+console.log(morning )
