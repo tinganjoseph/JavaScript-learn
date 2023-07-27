@@ -1,2 +1,2 @@
-let morning =" it's a valid string";
-console.log(morning )
+let s1 =Symbol();
+console.log(s1)
