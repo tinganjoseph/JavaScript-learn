@@ -9,7 +9,8 @@
     "variable":"nodemon variable/index",
     "syntax": "nodemon syntax/index",
     "datatype":"nodemon DataTypes/index",
-    "number": "nodemon Number/index"
+    "number": "nodemon Number/index",
+    "boolean": "nodemon Boolean/index"
   },
   "author": "tingan joseph",
   "license": "ISC",
