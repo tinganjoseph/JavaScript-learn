@@ -8,7 +8,8 @@
     "server": "nodemon index.js",
     "variable":"nodemon variable/index",
     "syntax": "nodemon syntax/index",
-    "datatype":"nodemon DataTypes/index"
+    "datatype":"nodemon DataTypes/index",
+    "number": "nodemon Number/index"
   },
   "author": "tingan joseph",
   "license": "ISC",
